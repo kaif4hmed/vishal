@@ -1,0 +1,273 @@
+*{
+    box-sizing: border-box;
+}
+  .navbar-brand {
+    display: inline-block;
+    position: absolute;
+    top: 18px;
+    text-indent: -9999px;
+    height: 18px;
+    width: 152px;
+    background: url(https://public-assets.envato-static.com/assets/logos/envato_market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg);
+      
+    background-size: 152px 18px;
+  
+  }
+  .logo-event {
+    padding: 0 20px;
+  }
+  .buy {
+    padding: 0 20px;
+  }
+  .head {
+    font-size: 12px;
+    height: 54px;
+    background-color: #262626;
+    line-height: 54px;
+    margin-bottom: 1px;
+  }
+  .section-first{
+    padding: 300px 0 250px;
+  }
+
+.buy-now {
+  font-size: 14px;
+  padding: 5px 20px;
+  line-height: 1.5;
+  border: 2px solid #7aa93c;
+  background-color: #7aa93c;
+  color: white;
+  text-decoration: none;
+  box-shadow: 0 2px 0 #6f9a37;
+  
+}
+.section-first{
+  background-image: url(./fruit-folder/wheat\ and\ seeds.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed ;
+  
+  
+}
+.first-text-content a {
+    margin-top: 40px;
+    display: inline-block;
+}
+.buy-btn {
+
+    border: 2px solid #ffffff;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 24px;
+    padding: 6px 35px;
+    text-transform: uppercase;
+  }
+  .first-text-content h1 strong {
+    margin-bottom: 20px;
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    display: block;
+  }
+  .first-text-content {
+    text-align: center;
+  }
+  
+  .first-text-content {
+    color: #fff;
+  }
+  .ecomerce {
+    margin-bottom: 10px;
+  }
+  .ecomerce {
+    text-transform: capitalize;
+    font-family: "Roboto Slab",serif;
+  }
+  .buy-btn:hover {
+    background-color: #94c341;
+    border-color: #94c341;
+  }
+  .buy-btn:hover {
+    color: #ffffff;
+  }
+  .hero-content a {
+    margin-top: 40px;
+    display: inline-block;
+  }
+  .second{
+    background-color: #fff;
+  }
+  .second{
+    padding-top: 120px;
+    padding-bottom: 70px;
+  }
+  .fruit-folder {
+    width: 100%;
+  }
+  .heading {
+    color: #293155;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    text-transform: capitalize;
+  }
+ 
+  .img-one {
+    text-align: center;
+  }
+  .deafault {
+    padding: 20px 0;
+    margin: 0;
+  }
+  
+  .deafault {
+    font-size: 13px;
+    font-weight: 200;
+    text-transform: uppercase;
+    color: #3f3f3f;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .img-one a:hover {
+    color: #94c341;
+  }
+  .deafault a:hover {
+    text-decoration: none;
+  }
+  .home {
+    color: #3f3f3f;
+  }
+  .second {
+    padding-top: 120px;
+    padding-bottom: 70px;
+  }
+  .col-md-4 {
+    margin-bottom: 50px;
+  }
+  .img-one {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+  }
+  .heading {
+    padding-bottom: 70px;
+  }
+  .home {
+    display: block;
+    padding: 5px;
+  }
+  .third{
+    background-color: #f6f6f6;
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
+  .feature {
+    color: #293155;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    text-transform: capitalize;
+  }
+  .footer-one {
+    padding-bottom: 60px;
+  }
+  .fotr-style {
+    color: #3f3f3f;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .respons {
+    font-size: 21px;
+    line-height: 21px;
+    padding-bottom: 2px;
+    text-transform: capitalize;
+  }
+  .organ {
+    color: #666;
+    margin: 0;
+  }
+  .respons {
+    color: #666;
+  }
+  .footer-section {
+    background-color: #000000;
+    padding-top: 65px;
+    padding-bottom: 50px;
+  }
+  .quickly {
+    color: #fff;
+    display: block;
+    float: left;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .footer-section .buy-btn.bottom-btn {
+    color: #fff;
+    background-color: #94c341;
+    border: 2px solid #94c341;
+  }
+  .buy-btn.float-right.bottom-btn {
+    text-decoration: none;
+  }
+  .img-one .ancor i {
+    border: 2px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    height: 60px;
+    line-height: 56px;
+    margin-left: -30px;
+    opacity: 0;
+    position: absolute;
+    transition: all 0.3s ease 0s;
+    width: 60px;
+
+    
+  }
+
+  .img-one .ancor:hover  {
+    display: block;
+    position: relative;
+    transition: all 0.3s ease 0s;
+    background-color: #94c341;
+
+  }
+  .img-one:hover .fruit-folder {
+    transform: translateY(-10px);
+    transition: all 0.3s ease 0s;
+    background-color: #94c341;
+  }
+  .navbar {
+    position: fixed;
+    width: 100%;
+    background-color: #262626;
+    z-index: 1;
+  }
+
+  @media(max-width:564px){
+.navbar {
+    padding: inherit;
+}
+.first-text-content h1 strong{
+  font-size: inherit;
+}
+.heading {
+  font-size: 26px;
+}
+.footer-section .buy-btn {
+  float: left;
+}
+
+
+
+
+
+  }
+  
+  
+
+  
+  
