@@ -8,7 +8,7 @@
     text-indent: -9999px;
     height: 18px;
     width: 152px;
-    background: url(https://public-assets.envato-static.com/assets/logos/envato_market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg);
+    background:url(https://public-assets.envato-static.com/assets/logos/envato_market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg);
       
     background-size: 152px 18px;
   
@@ -42,7 +42,7 @@
   
 }
 .section-first{
-  background-image: url(./fruit-folder/wheat\ and\ seeds.webp);
+  background-image: url(fruit-folder/wheat\ and\ seeds.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -247,7 +247,7 @@
     z-index: 1;
   }
 
-  @media(max-width:564px){
+ @media(max-width:564px){
 .navbar {
     padding: inherit;
 }
@@ -260,12 +260,7 @@
 .footer-section .buy-btn {
   float: left;
 }
-
-
-
-
-
-  }
+}
   
   
 
